@@ -172,10 +172,13 @@
 
 - embeds sounds files
 - `type` attribute to give the type of audio file
+- optional attributes: `controls` , `autoplay` , `loop` , `muted`
 
-### Video tag (<video>)
+### Video tag (`<video>`)
 
 - embeds video files
+- `type` attribute to give the type of video file
+- optional attributes: `controls` , `autoplay` , `loop` , `muted` , `poster`
 
 ### Anchor tag (`<a>`)
 
